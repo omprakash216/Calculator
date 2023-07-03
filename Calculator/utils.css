@@ -1,0 +1,23 @@
+.text-center{
+    text-align: center;
+    
+}
+/* .bg-green{
+    background-color: green;
+} */
+.mx-auto{
+    margin: auto;
+}
+
+.flax{
+display: flex;
+}
+.flax-col{
+flex-direction : column;
+}
+
+.items-center{
+align-items: center;
+text-align: center;
+
+}
